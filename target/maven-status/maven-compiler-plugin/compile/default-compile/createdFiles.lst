@@ -1,0 +1,3 @@
+org\dxc\jenkin2\DockerJenkin1Application.class
+org\dxc\jenkin2\controll\ProductController.class
+org\dxc\jenkin2\model\Product.class
